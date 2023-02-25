@@ -1,8 +1,4 @@
-![Singularity Indonesia Logo](Logo%20Of%20Singularity%20Indonesia%20©2023%20Stefanus%20Ayudha.png "Singularity Indonesia")
-
-
-### Hi Im Steve 👋
-
+### Hi Im Steve
 - Im a scientist for fun. Im a programmer for fun. Ask me anything about Android, Software Architecture, Physic Science any kind of Science.
 - You can find me at :
 >- [Instagram](https://www.instagram.com/stefanus_ayudha/)
@@ -10,6 +6,9 @@
 >- [Whatsapp](https://wa.me/+6282135263752)
 >- [Linkedin](https://www.linkedin.com/in/stefanus-ayudha-447a98b5/)
 
+## Singularity Universe
+<img src="Logo%20Of%20Singularity%20Indonesia%20©2023%20Stefanus%20Ayudha.png"  width="216" height="216">
+Logo copy right ©2023 Stefanus Ayudha Junior
 
 <!--
 **stefanusayudha/stefanusayudha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
