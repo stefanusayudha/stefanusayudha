@@ -1,3 +1,6 @@
+![Singularity Indonesia Logo](Logo%20Of%20Singularity%20Indonesia%20©2023%20Stefanus%20Ayudha.png "Singularity Indonesia")
+
+
 ### Hi Im Steve 👋
 
 - Im a scientist for fun. Im a programmer for fun. Ask me anything about Android, Software Architecture, Physic Science any kind of Science.
