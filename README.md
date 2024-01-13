@@ -13,6 +13,8 @@
 <img src="Logo%20Of%20Singularity%20Indonesia%20©2023%20Stefanus%20Ayudha.png"  width="216" height="216">
 Logo copy right ©2023 Stefanus Ayudha Junior
 
+Check Some Cool Stuff Here: https://github.com/SingularityIndonesia
+
 <!--
 **stefanusayudha/stefanusayudha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
