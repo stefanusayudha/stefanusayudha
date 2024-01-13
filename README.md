@@ -1,8 +1,7 @@
 ### Hi Im Steve
 - Android Expert.
 - Software Consultant.
-- Im a scientist for fun.
-- Im a programmer for fun.
+- Scientist for fun.
 - Ask me anything about Android, Software Architecture, Physic Science any kind of Science.
 - You can find me at :
 >- [Instagram](https://www.instagram.com/stefanus_ayudha/)
