@@ -1,5 +1,6 @@
 ### Hi Im Steve
 - Android Expert.
+- Software Consultant.
 - Im a scientist for fun.
 - Im a programmer for fun.
 - Ask me anything about Android, Software Architecture, Physic Science any kind of Science.
