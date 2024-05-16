@@ -6,7 +6,7 @@
 - You can find me at :
 >- [Instagram](https://www.instagram.com/stefanus_ayudha/)
 >- [Email](mailto:stefanus.ayudha@gmail.com)
->- [Whatsapp](https://wa.me/+6282135263752)
+>- [Whatsapp](https://wa.me/+62895340952006)
 >- [Linkedin](https://www.linkedin.com/in/stefanus-ayudha-447a98b5/)
 
 ## Singularity Universe
